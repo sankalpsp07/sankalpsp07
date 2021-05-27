@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
 <h3 align="center">A CyberSecurity Enthusiast,A Pentester, Bug Hunter and a coder</h3>
 
-- 👾 2021 Goals : I wanna get the eCPTX certification and get better at CTFs and learn and explore the Information Security Field even more
+- 👾 2021 Goals : I wanna get the eJPT certification and get better at CTFs and learn and explore the Information Security Field even more
 
 
 - 🔭 I’m currently working on **eLearnSecurity Junior Penetration Tester and CEH**
