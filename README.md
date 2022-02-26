@@ -12,7 +12,7 @@
 - 📫 How to reach me **sankalp.paranjpe@gmail.com**
 
 
-- 🤖[TryHackMe Profile](https://tryhackme.com/p/sankalpsp)
+
 
 
 ### Connect with me:
