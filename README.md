@@ -6,6 +6,7 @@
 
 
 - 🔭 Certification Passed : **CEH - Practical**
+- In progress: CSA - **Certified SOC Analyst**
 
 - 💬 Ask me about **CyberSecurity, Penetration Testing, Bug Bounty Hunting**
 
