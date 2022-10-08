@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
-<h3 align="center">A CyberSecurity Enthusiast,A Pentester, Bug Hunter, A coder </h3>
+<h3 align="center">A CyberSecurity Enthusiast, A Pentester, Bug Hunter, A coder </h3>
 
 
 
