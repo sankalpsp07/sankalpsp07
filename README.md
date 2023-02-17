@@ -24,6 +24,14 @@
 
 
 <br />
+
+
+## ⚡ My GitHub Stats
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sankalpsp07&show_icons=true&theme=gotham" alt="sankalpsp07" />
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sankalpsp07&show_icons=true&line_height=27&include_all_commits=true"/> 
+
+
 <!--
 ### Languages and Tools:
 
