@@ -6,12 +6,13 @@
 
 
 - 🔭 Certification Passed : ** AWS Certified Cloud Practitioner and EC Council CEH - Practical**
--                           
+                        
 - In progress: CSA - **Certified SOC Analyst**
 
 - 💬 Ask me about **CyberSecurity, Penetration Testing, Bug Bounty Hunting**
 
 - 📫 How to reach me **sankalp.paranjpe@gmail.com**
+
 
 
 
@@ -31,6 +32,11 @@
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sankalpsp07&show_icons=true&line_height=27&include_all_commits=true"/> 
+
+[](https://github-readme-stats.vercel.app/api?username=sankalpsp07&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sankalpsp07&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpsp07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 <!--
