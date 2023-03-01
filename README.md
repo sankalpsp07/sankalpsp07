@@ -5,7 +5,8 @@
 
 
 
-- 🔭 Certification Passed : **CEH - Practical**
+- 🔭 Certification Passed : ** AWS Certified Cloud Practitioner and EC Council CEH - Practical**
+-                           
 - In progress: CSA - **Certified SOC Analyst**
 
 - 💬 Ask me about **CyberSecurity, Penetration Testing, Bug Bounty Hunting**
