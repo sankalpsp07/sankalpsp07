@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
-<h3 align="center">A CyberSecurity Enthusiast, A Pentester, Bug Hunter, A coder </h3>
+<h3 align="center">A CyberSecurity and Cloud Security Enthusiast</h3>
 
 
 
-- 🔭 Certification Passed : AWS Certified Cloud Practitioner
-                             EC Council CEH - Practical
+- 🔭 Certification Passed : 1) AWS Certified Cloud Practitioner
+                             2) EC Council CEH - Practical
                         
 - In progress: CSA - **Certified SOC Analyst**
 
