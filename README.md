@@ -1,4 +1,4 @@
-![logo](https://github.com/sankalpsp07/sankalpsp07/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
+![logo](https://github.com/sankalpsp07/sankalpsp07/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
 <h3 align="center">A CyberSecurity and Cloud Security Enthusiast</h3>
