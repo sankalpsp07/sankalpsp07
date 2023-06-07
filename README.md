@@ -8,12 +8,15 @@
 - 🔭 Certification Passed : 1) AWS Certified Cloud Practitioner
                              2) EC Council CEH - Practical
                         
-- In progress: CSA - **Certified SOC Analyst**
+- In progress: **AWS Security Speciality Certification**
+
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/)
 
 - 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe** | **sankalp.paranjpe@gmail.com**
 
 - 💬 Ask me about **CyberSecurity, Cloud, Cloud Security, AWS, DevSecOps**
+
+
 
 ### Connect with me:
 
