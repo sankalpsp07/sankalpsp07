@@ -9,14 +9,13 @@
                              2) EC Council CEH - Practical
                         
 - In progress: CSA - **Certified SOC Analyst**
+- 📝 I regularly write articles on [https://sumanprasad.hashnode.dev](https://sumanprasad.hashnode.dev)
 
-- 💬 Ask me about **CyberSecurity, Penetration Testing, Bug Bounty Hunting**
+- 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe**
+
+- 💬 Ask me about **CyberSecurity, Cloud, Cloud Security, AWS, DevSecOps**
 
 - 📫 How to reach me **sankalp.paranjpe@gmail.com**
-
-
-
-
 
 
 ### Connect with me:
