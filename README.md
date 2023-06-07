@@ -11,12 +11,9 @@
 - In progress: CSA - **Certified SOC Analyst**
 - 📝 I regularly write articles on [https://sumanprasad.hashnode.dev](https://sumanprasad.hashnode.dev)
 
-- 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe**
+- 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe** | **sankalp.paranjpe@gmail.com**
 
 - 💬 Ask me about **CyberSecurity, Cloud, Cloud Security, AWS, DevSecOps**
-
-- 📫 How to reach me **sankalp.paranjpe@gmail.com**
-
 
 ### Connect with me:
 
