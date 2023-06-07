@@ -9,7 +9,7 @@
                              2) EC Council CEH - Practical
                         
 - In progress: CSA - **Certified SOC Analyst**
-- 📝 I regularly write articles on [https://sumanprasad.hashnode.dev](https://sumanprasad.hashnode.dev)
+- 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/)
 
 - 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe** | **sankalp.paranjpe@gmail.com**
 
