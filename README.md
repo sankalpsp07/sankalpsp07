@@ -1,20 +1,35 @@
 ![logo](https://github.com/sankalpsp07/sankalpsp07/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
-<h3 align="center">A CyberSecurity and Cloud Security Enthusiast</h3>
+<h3 align="center">2X AWS Certified and EC Council Certified</h3>
 
+- Selected as AWS Cloud Captain by Amazon Web Services(AWS), 50 captains around the world, out of 2000+ applications.
 
+- I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2100+ Subscribers. 
 
-- 🔭 Certification Passed : 1) AWS Certified Cloud Practitioner
-                             2) EC Council CEH - Practical
-                        
+- Meet -> Connect -> Network -> Learn -> Grow together-> Repeat 
+
+- I am learning, learning is a lifelong process. Exploring and enhancing my knowledge in different domains of cybersecurity
+
+- **Certifications: AWS Certified Solutions Architect- Associate, AWS Certified Cloud Practitioner, EC Council Certified Ethical Hacker
+**
+
 - In progress: **AWS Security Speciality Certification**
+  
+- I received acknowledgments, bug bounties, and swags from 15+ companies including Qualcomm, Medium, Upstox, Swisscom, Hedera, Gallagher, etc. for researching and analyzing a series of critical vulnerabilities and proactively reporting them, since the year 2020. 
 
-- 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/)
+- Security Talks: 
+ Spoke at Null Security Meetup, Pune - Amazon GuardDuty and Inspector
+ Spoke at Security Boat’s SB Meetup, Pune - Topic: AWS Security Incident Response
+ Spoke at C3, MIT ADT, Topic: AWS Cloud Security
+ Spoke at Meetup organized by Cloudnloud Tech Community and AWS User Group Bangalore. 
+
+
+- #100daystreak on TryhackMe(90 day Badge)
 
 - 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe** | **sankalp.paranjpe@gmail.com**
 
-- 💬 Ask me about **CyberSecurity, Cloud, Cloud Security, AWS, DevSecOps**
+- 💬 Ask me about **CyberSecurity, Cloud, Cloud Security, , DevSecOps**
 
 
 
