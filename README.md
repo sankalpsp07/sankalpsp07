@@ -7,14 +7,14 @@
 
 - I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2100+ Subscribers. 
 
-- Meet -> Connect -> Network -> Learn -> Grow together-> Repeat 
+- Meet -> Connect -> Network -> Learn -> Grow together-> Repeat
+
+- **Certifications: AWS Certified Solutions Architect- Associate, AWS Certified Cloud Practitioner, EC Council Certified Ethical Hacker**
+
+- In progress: **AWS Security Speciality Certification**
 
 - I am learning, learning is a lifelong process. Exploring and enhancing my knowledge in different domains of cybersecurity
 
-- **Certifications: AWS Certified Solutions Architect- Associate, AWS Certified Cloud Practitioner, EC Council Certified Ethical Hacker
-**
-
-- In progress: **AWS Security Speciality Certification**
   
 - I received acknowledgments, bug bounties, and swags from 15+ companies including Qualcomm, Medium, Upstox, Swisscom, Hedera, Gallagher, etc. for researching and analyzing a series of critical vulnerabilities and proactively reporting them, since the year 2020. 
 
