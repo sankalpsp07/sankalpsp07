@@ -14,7 +14,7 @@
 
 - Selected as AWS Cloud Captain by Amazon Web Services(AWS), 50 captains around the world, out of 2000+ applications.
 
-- I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2100+ Subscribers. 
+- I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2200+ Subscribers. 
 
 - Meet -> Connect -> Network -> Learn -> Grow together-> Repeat
 
