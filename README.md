@@ -1,7 +1,7 @@
 ![logo](https://github.com/sankalpsp07/sankalpsp07/blob/main/Banner.jpg.jpg)
 
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
-<h3 align="center">2X AWS Certified and EC Council Certified</h3>
+<h3 align="center">2X AWS Certified and EC Council CEH - Practical Certified</h3>
 
 ## ⚡ My GitHub Stats
 
@@ -14,29 +14,35 @@
 
 - Selected as AWS Cloud Captain by Amazon Web Services(AWS), 50 captains around the world, out of 2000+ applications.
 
-- I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2200+ Subscribers. 
+- I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2900+ Subscribers. 
 
 - Meet -> Connect -> Network -> Learn -> Grow together-> Repeat
 
 - **Certifications: AWS Certified Solutions Architect- Associate, AWS Certified Cloud Practitioner, EC Council Certified Ethical Hacker**
 
-- In progress: **AWS Security Speciality Certification**
+- In progress: **AWS Certified SysOps Administrator Certification**
 
 - I am learning, learning is a lifelong process. Exploring and enhancing my knowledge in different domains of cybersecurity
 
-  
+
 - I received acknowledgments, bug bounties, and swags from 15+ companies including Qualcomm, Medium, Upstox, Swisscom, Hedera, Gallagher, etc. for researching and analyzing a series of critical vulnerabilities and proactively reporting them, since the year 2020. 
 
-- Security Talks: 
- Spoke at Null Security Meetup, Pune - Amazon GuardDuty and Inspector
- Spoke at Security Boat’s SB Meetup, Pune - Topic: AWS Security Incident Response
- Spoke at C3, MIT ADT, Topic: AWS Cloud Security
- Spoke at Meetup organized by Cloudnloud Tech Community and AWS User Group Bangalore. 
-
+- **Technical Talks:**
+- Spoke at AWS Community day Aurangabad 2023
+- Spoke at AWS User Group Pune Meetup 
+- Spoke at Null Security Meetup, Pune
+- Spoke at Security Boat’s SB Meetup, Pune
+- Spoke at C3, MIT ADT
+- Spoke at Meetup organized by Cloudnloud Tech Community and AWS User Group Bangalore. 
+- Spoke at SecConf 2023 organized by Thoughtworks. 
+- Spoke at DevOops Pune Meetup 
+- Spoke at Bsides Pune Security Conference 2024
+- Spoke at AWS Student Community Day Chennai 2024
+- Spoke at NEXTECH Cloudfest 2024 - MIT WPU 
 
 - #100daystreak on TryhackMe(90 day Badge)
 
-- 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe** | **sankalp.paranjpe@gmail.com**
+- 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe** | **sankalp.paranjpe@gmail.com | https://sankalpparanjpe.com/**
 
 - 💬 Ask me about **CyberSecurity, Cloud, Cloud Security, , DevSecOps**
 
