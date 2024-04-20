@@ -1,4 +1,4 @@
-![logo](https://github.com/sankalpsp07/sankalpsp07/blob/main/Banner.jpg)
+![logo](https://github.com/sankalpsp07/sankalpsp07/blob/main/Banner.jpg.jpg)
 
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
 <h3 align="center">2X AWS Certified and EC Council Certified</h3>
