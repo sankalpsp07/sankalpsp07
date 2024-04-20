@@ -28,17 +28,7 @@
 - I received acknowledgments, bug bounties, and swags from 15+ companies including Qualcomm, Medium, Upstox, Swisscom, Hedera, Gallagher, etc. for researching and analyzing a series of critical vulnerabilities and proactively reporting them, since the year 2020. 
 
 - **Technical Talks:**
-- Spoke at AWS Community day Aurangabad 2023
-- Spoke at AWS User Group Pune Meetup 
-- Spoke at Null Security Meetup, Pune
-- Spoke at Security Boat’s SB Meetup, Pune
-- Spoke at C3, MIT ADT
-- Spoke at Meetup organized by Cloudnloud Tech Community and AWS User Group Bangalore. 
-- Spoke at SecConf 2023 organized by Thoughtworks. 
-- Spoke at DevOops Pune Meetup 
-- Spoke at Bsides Pune Security Conference 2024
-- Spoke at AWS Student Community Day Chennai 2024
-- Spoke at NEXTECH Cloudfest 2024 - MIT WPU 
+- Spoke at AWS Community day Aurangabad 2023, AWS User Group Pune Meetup, Null Security Meetup, Pune, Security Boat’s SB Meetup, Pune, C3, MIT ADT, Cloudnloud Tech Community and AWS User Group Bangalore, SecConf 2023 organized by Thoughtworks, DevOops Pune Meetup, Bsides Pune Security Conference 2024, AWS Student Community Day Chennai 2024, NEXTECH Cloudfest 2024 - MIT WPU 
 
 - #100daystreak on TryhackMe(90 day Badge)
 
