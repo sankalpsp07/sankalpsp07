@@ -3,15 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
 <h3 align="center">2X AWS Certified and EC Council CEH - Practical Certified</h3>
 
-## ⚡ My GitHub Stats
-
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sankalpsp07&show_icons=true&line_height=27&include_all_commits=true"/> 
-
-[](https://github-readme-stats.vercel.app/api?username=sankalpsp07&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sankalpsp07&theme=dark&hide_border=true)<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalpsp07&column=7" alt="sankalpsp07" /></a> </p>
-
 - Selected as AWS Cloud Captain by Amazon Web Services(AWS), 50 captains around the world, out of 2000+ applications.
 
 - I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2900+ Subscribers. 
