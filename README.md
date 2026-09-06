@@ -1,59 +1,112 @@
-![logo](https://github.com/sankalpsp07/sankalpsp07/blob/main/Banner.jpg.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:0D1117&height=200&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Sandeep%20Paranjpe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Sandeep%20Paranjpe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
+  <img align="center" width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Sandeep%20Paranjpe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
+</picture>
 
-<h1 align="center">Hi 👋, I'm Sankalp Sandeep Paranjpe</h1>
-<h3 align="center">2X AWS Certified and EC Council CEH - Practical Certified</h3>
+<h3 align="center">Cloud Security & DevSecOps Engineer | AI Security | AWS Community Builder, AWS User Group Leader & Former AWS Cloud Captain</h3>
 
-- Selected as AWS Cloud Captain by Amazon Web Services(AWS), 50 captains around the world, out of 2000+ applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=780&lines=Cloud+Security+%26+DevSecOps+Engineer;AI+Security;AWS+Community+Builder%2C+AWS+User+Group+Leader+%26+Former+AWS+Cloud+Captain" alt="Typing SVG" />
+</p>
 
-- I write articles on [https://www.linkedin.com/newsletters/7042838438059945985/](https://www.linkedin.com/newsletters/7042838438059945985/). 2900+ Subscribers. 
+<p align="center">
+  <a href="https://linkedin.com/in/sankalp-s-paranjpe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/SankalpParanjpe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://blog.sankalpparanjpe.in"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/sankalp-sandeep-paranjpe"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://builder.aws.com/community/@sankalpparanjpe"><img src="https://img.shields.io/badge/AWS_Builder_Community-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="mailto:paranjpe.sankalp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- Meet -> Connect -> Network -> Learn -> Grow together-> Repeat
+---
 
-- **Certifications: AWS Certified Solutions Architect- Associate, AWS Certified Cloud Practitioner, EC Council Certified Ethical Hacker**
+### 🧭 About Me
 
-- In progress: **AWS Certified SysOps Administrator Certification**
+I build secure cloud systems for a living — and I help the broader developer community understand how to do the same, combining hands-on architecture experience with a passion for teaching and community building.
 
-- I am learning, learning is a lifelong process. Exploring and enhancing my knowledge in different domains of cybersecurity
+- 🔐 By day, I work as a **Cloud Security & DevSecOps Consultant at Ernst & Young (EY)**, advising engineering teams on secure AWS architectures, hardening infrastructure against threats, and embedding security into how teams ship software — across enterprise environments.
+- 🌱 Outside of work, I'm an **[AWS Community Builder (Security)](https://builder.aws.com/community/@sankalpparanjpe)** and **AWS User Group Pune Leader**, organizing meetups, running workshops, and speaking at conferences across India. Previously selected as one of **50 AWS Cloud Captains worldwide**, out of 2,000+ applicants.
+- ✍️ I write on [blog.sankalpparanjpe.in](https://blog.sankalpparanjpe.in) and publish a [LinkedIn newsletter](https://www.linkedin.com/newsletters/7042838438059945985/) with **2,900+ subscribers**.
+- 🔁 Philosophy: Meet → Connect → Network → Learn → Grow together → Repeat
 
+---
 
-- I received acknowledgments, bug bounties, and swags from 15+ companies including Qualcomm, Medium, Upstox, Swisscom, Hedera, Gallagher, etc. for researching and analyzing a series of critical vulnerabilities and proactively reporting them, since the year 2020. 
+### 🛠️ What I Work On
 
-- **Technical Talks:**
-- Spoke at AWS Community day Aurangabad 2023, AWS User Group Pune Meetup, Null Security Meetup, Pune, Security Boat’s SB Meetup, Pune, C3, MIT ADT, Cloudnloud Tech Community and AWS User Group Bangalore, SecConf 2023 organized by Thoughtworks, DevOops Pune Meetup, Bsides Pune Security Conference 2024, AWS Student Community Day Chennai 2024, NEXTECH Cloudfest 2024 - MIT WPU 
+<p align="left">
+  <img src="https://img.shields.io/badge/DevSecOps-Secure_CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Security-AWS_Hardening-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes_Security-EKS_RBAC-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Security-AWS_AI%2FML-8A2BE2?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/IaC_Security-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compliance-ISO_27001-4CAF50?style=flat-square&logo=iso&logoColor=white" />
+</p>
 
-- #100daystreak on TryhackMe(90 day Badge)
+| Area | Focus |
+|---|---|
+| **DevSecOps** | Secure CI/CD pipelines with GitHub Actions & CircleCI, SAST (SonarQube, Scancode), IAM role-based deployments |
+| **Cloud Security** | AWS Organizations, CIS Benchmarks, IAM hardening, GuardDuty, Security Hub, Inspector |
+| **Kubernetes Security** | EKS RBAC, OIDC authentication, container image scanning |
+| **AI Security** | Securing AI/ML workloads on AWS — an emerging space I'm actively building expertise in |
+| **IaC Security** | Terraform with security guardrails baked in |
+| **Compliance** | ISO 27001:2022, CIS Benchmarks |
 
-- 📫 How to reach me **https://linkedin.com/in/sankalp-s-paranjpe** | **sankalp.paranjpe@gmail.com | https://sankalpparanjpe.com/**
+---
 
-- 💬 Ask me about **CyberSecurity, Cloud, Cloud Security, , DevSecOps**
+### 🎓 Certifications
 
+<p align="left">
+  <a href="https://www.credly.com/users/sankalp-sandeep-paranjpe"><img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/sankalp-sandeep-paranjpe"><img src="https://img.shields.io/badge/AWS_Certified-SysOps_Administrator_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/sankalp-sandeep-paranjpe"><img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+</p>
 
+🔗 Verified badges on [Credly](https://www.credly.com/users/sankalp-sandeep-paranjpe)
 
-### Connect with me:
+---
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SankalpParanjpe) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sankalp-sandeep-paranjpe)
-![](https://img.shields.io/github/followers/nickapic?style=for-the-badge&logo=appveyor)
+### 🎤 Speaking & Community
 
+I've spoken at **40+ conferences and meetups** across India, including:
 
-<br />
+`AWS Summit` · `AWS Community Days` · `CNCF MCP Dev Summit` · `re:Invent Recap Meetups` · `Serverless Days` · `BSides Security Conferences` · `SecConf by Thoughtworks` · `AWS User Group Meetups` · `Null Security Meetup` · `Security Boat's SB Meetup` · `C3` · `Cloudnloud Tech Community` · `DevOops Meetup` · `AWS Student Community Day` · `NEXTECH Cloudfest`
 
-<!--
-### Languages and Tools:
+This is the part of the job I love most — turning complex cloud security topics into talks and workshops builders can actually use.
 
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+---
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### 🏆 Security Research
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+- Received acknowledgments, bug bounties, and swag from **15+ companies** — including Qualcomm, Medium, Upstox, Swisscom, Hedera, and Gallagher — for researching, analyzing, and responsibly disclosing critical vulnerabilities since 2020.
+- `#100DaysStreak` on TryHackMe (90-day badge).
 
-<br />
--->
+---
+
+### 💭 What I Believe
+
+> Security shouldn't slow teams down — it should be built into how they ship. I bring that mindset to every talk, workshop, and conversation I have with the builder community.
+
+If you're working on something interesting in cloud security, DevSecOps, or building developer communities, let's talk.
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sankalp-s-paranjpe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/SankalpParanjpe"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://blog.sankalpparanjpe.in"><img src="https://img.shields.io/badge/blog-sankalpparanjpe.in-000000?style=for-the-badge&logo=rss&logoColor=white" /></a>
+</p>
+
+💬 **Ask me about:** Cloud Security · DevSecOps · AI Security · Kubernetes Security · Cloud Architecture
+
+---
+
+<p align="center"><i>Opinions, posts, and views expressed here are solely my own and do not reflect that of my past or current employers.</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:0D1117&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=100&section=footer">
+  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=100&section=footer">
+</picture>
