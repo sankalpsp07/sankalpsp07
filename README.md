@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:0D1117&height=200&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Sandeep%20Paranjpe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Sandeep%20Paranjpe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
-  <img align="center" width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Sandeep%20Paranjpe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38">
-</picture>
+<p align="center">
+  <img width="100%" alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=200&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Sandeep%20Paranjpe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <h3 align="center">Cloud Security & DevSecOps Engineer | AI Security | AWS Community Builder, AWS User Group Leader & Former AWS Cloud Captain</h3>
 
@@ -105,8 +103,6 @@ If you're working on something interesting in cloud security, DevSecOps, or buil
 
 <p align="center"><i>Opinions, posts, and views expressed here are solely my own and do not reflect that of my past or current employers.</i></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:0D1117&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=100&section=footer">
-  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=100&section=footer">
-</picture>
+<p align="center">
+  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=100&section=footer" />
+</p>
